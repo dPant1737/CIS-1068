@@ -1,0 +1,34 @@
+----------------------------------------------------------------------------------
+Mid-term test paper with answers
+----------------------------------------------------------------------------------
+Question: What is a class in Java? (Pts: 1, Difficulty: 3) 
+Answer:A class is a collection of data-members and member-functions.
+Question: What are public/private/default/protected in Java? (Pts: 2, Difficulty: 3) 
+Answer:Access Modifiers
+Question: Keyword for attributes and methods that cannot be overridden/modified in Java? (Pts: 3, Difficulty: 3) 
+Answer:final
+Mr. ___Abraham Lincoln___ was the 16th US President.
+___extends___ keyword is used to Inherit a class from base class.
+Override Keyword can be used to ___override___ a function in the derived class.
+Question: Who lives in a pineapple under the sea? (Pts: 5, Difficulty: 7) 
+
+ 1. Peter Griffin
+ 2. Scooby Doo
+ 3. ***Spongebob Squarepants***
+ 4. Eric Cartman
+
+Question: Who invented Java Programming? (Pts: 5, Difficulty: 7) 
+
+ 1. Guido van Rossum
+ 2. ***James Gosling***
+ 3. Dennis Ritchie
+ 4. Bjarne Stroustrup
+
+Question: Who invented C++ Programming language? (Pts: 5, Difficulty: 7) 
+
+ 1. Guido van Rossum
+ 2. James Gosling
+ 3. Dennis Ritchie
+ 4. ***Bjarne Stroustrup***
+
+Total Points: 27
